@@ -1,0 +1,47 @@
+export const companyA = {
+  "id": "900674335",
+  "id_type": "nit",
+  "company_name": "company1",
+  "first_name": "",
+  "second_name": "",
+  "first_lastName": "",
+  "second_lastName": "",
+  "email": "",
+  "sms_send": false,
+  "email_send": false,
+  "auth": false,
+  "error": 1,
+  "message": "error",
+};
+
+export const companyB =  {
+  "id": "900674336",
+  "id_type": "nit",
+  "company_name": "company2",
+  "first_name": "",
+  "second_name": "",
+  "first_lastName": "",
+  "second_lastName": "",
+  "email": "",
+  "sms_send": false,
+  "email_send": false,
+  "auth": true,
+  "error": 0,
+  "message": "no error",
+};
+
+export const companyC =   {
+  "id": "811033098",
+  "id_type": "cedula",
+  "company_name": "company3",
+  "first_name": "",
+  "second_name": "",
+  "first_lastName": "",
+  "second_lastName": "",
+  "email": "",
+  "sms_send": false,
+  "email_send": false,
+  "auth": true,
+  "error": 0,
+  "message": "no error",
+};

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m3pHh6AvLMrjxyEBQCyaqxh0xAmBwdbJGXp/WOduf4sX2TCeRiI5Csye6cr9OgaORs/Ca/bPGLkxUc0o7U8AyQ==",
+  "success": true,
+  "projectFilePath": "/Users/macbookair/Documents/codigo/dotnet-tp-test/Reglas_negocio/Reglas_negocio.csproj",
+  "expectedPackageFiles": [
+    "/Users/macbookair/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

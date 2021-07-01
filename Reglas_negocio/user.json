@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "id_number": "900674335",
+      "id_type": "nit",
+      "company_name": "company1",
+      "first_name": "",
+      "second_name": "",
+      "first_lastName": "",
+      "second_lastName": "",
+      "email": "",
+      "sms_send": false,
+      "email_send": false,
+      "auth": false
+    },
+    {
+      "id": "2",
+      "id_number": "900674336",
+      "id_type": "nit",
+      "company_name": "company22",
+      "first_name": "",
+      "second_name": "",
+      "first_lastName": "",
+      "second_lastName": "",
+      "email": "correo@ejemplo.com",
+      "sms_send": true,
+      "email_send": true,
+      "auth": true
+    },
+    {
+      "id": "3",
+      "id_number": "811033098",
+      "id_type": "nit",
+      "company_name": "company_test",
+      "first_name": "",
+      "second_name": "",
+      "first_lastName": "",
+      "second_lastName": "",
+      "email": "correo@ejemplo.com",
+      "sms_send": false,
+      "email_send": false,
+      "auth": true
+    }
+  ]
+}

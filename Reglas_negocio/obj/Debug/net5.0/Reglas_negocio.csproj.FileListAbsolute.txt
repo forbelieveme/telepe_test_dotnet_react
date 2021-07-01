@@ -1,0 +1,12 @@
+/Users/macbookair/Documents/codigo/dotnet-tp-test/Reglas_negocio/bin/Debug/net5.0/Reglas_negocio.deps.json
+/Users/macbookair/Documents/codigo/dotnet-tp-test/Reglas_negocio/bin/Debug/net5.0/Reglas_negocio.dll
+/Users/macbookair/Documents/codigo/dotnet-tp-test/Reglas_negocio/bin/Debug/net5.0/ref/Reglas_negocio.dll
+/Users/macbookair/Documents/codigo/dotnet-tp-test/Reglas_negocio/bin/Debug/net5.0/Reglas_negocio.pdb
+/Users/macbookair/Documents/codigo/dotnet-tp-test/Reglas_negocio/obj/Debug/net5.0/Reglas_negocio.csproj.AssemblyReference.cache
+/Users/macbookair/Documents/codigo/dotnet-tp-test/Reglas_negocio/obj/Debug/net5.0/Reglas_negocio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookair/Documents/codigo/dotnet-tp-test/Reglas_negocio/obj/Debug/net5.0/Reglas_negocio.AssemblyInfoInputs.cache
+/Users/macbookair/Documents/codigo/dotnet-tp-test/Reglas_negocio/obj/Debug/net5.0/Reglas_negocio.AssemblyInfo.cs
+/Users/macbookair/Documents/codigo/dotnet-tp-test/Reglas_negocio/obj/Debug/net5.0/Reglas_negocio.csproj.CoreCompileInputs.cache
+/Users/macbookair/Documents/codigo/dotnet-tp-test/Reglas_negocio/obj/Debug/net5.0/Reglas_negocio.dll
+/Users/macbookair/Documents/codigo/dotnet-tp-test/Reglas_negocio/obj/Debug/net5.0/ref/Reglas_negocio.dll
+/Users/macbookair/Documents/codigo/dotnet-tp-test/Reglas_negocio/obj/Debug/net5.0/Reglas_negocio.pdb
